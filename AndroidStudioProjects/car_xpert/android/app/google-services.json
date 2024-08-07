@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469574164527",
+    "project_id": "carxpert-a3b07",
+    "storage_bucket": "carxpert-a3b07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469574164527:android:3fa13b6e47d6c996a866da",
+        "android_client_info": {
+          "package_name": "com.example.car_xpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALWnYuCt0QNO37oQ3OLeQjVeF-NlQ4GTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
